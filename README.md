@@ -51,6 +51,9 @@ This will output the following
 }
 ```
 
+After running you can access the docs at 
+[http://localhost:8008/docs](http://localhost:8008/docs)
+
 # How to run on virtual environment
 
 Run the following commands
