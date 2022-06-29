@@ -24,6 +24,7 @@ Go to [http://localhost:8008](http://localhost:8008) to see if app is working
 Task 1 API is at [http://localhost:8008/users/](http://localhost:8008/users/)
 
 To test the api you can run the the following curl command
+
 Note: Date needs to be in ISO format
 
 ```
