@@ -50,7 +50,7 @@ This will output the following
 }
 ```
 
-# How to run on docker
+# How to run on virtual environment
 
 Run the following commands
 
